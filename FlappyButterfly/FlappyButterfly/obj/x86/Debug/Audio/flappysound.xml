@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 3976789730;
+    PC Bank Last Modified High = 30442323;
+    Bank Last Revised Low = 2988284829;
+    Bank Last Revised High = 30442322;
+
+    Wave
+    {
+        Name = game-over;
+        File = game-over.wav;
+        Build Settings Last Modified Low = 2189569145;
+        Build Settings Last Modified High = 30442322;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 276480;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1477729895;
+            Last Modified High = 30442315;
+        }
+    }
+
+    Wave
+    {
+        Name = Paper;
+        File = Paper.wav;
+        Build Settings Last Modified Low = 2189709153;
+        Build Settings Last Modified High = 30442322;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 151140;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3390829491;
+            Last Modified High = 30442321;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

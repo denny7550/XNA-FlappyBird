@@ -1,0 +1,22 @@
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\FlappyButterfly.exe
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\FlappyButterfly.pdb
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\FlappyButterfly.csprojResolveAssemblyReference.cache
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\FlappyButterfly.exe
+c:\users\denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\FlappyButterfly.pdb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\bird1.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Bird2.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Obstacle.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Scroll.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Wood.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\gameover.xnb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Audio\flappysound.xgs
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Denny\documents\visual studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\FlappyButterfly.exe.manifest
+C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\FlappyButterfly.application
+C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\FlappyButterfly.exe.manifest
+C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\FlappyButterfly.application

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\pixel.png</Source>
+      <Name>Textures\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\pixel.xnb</Output>
+      <Time>2015-04-22T19:46:14.0522763+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2015-04-26T15:56:01.5589079+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bird1.png</Source>
+      <Name>Textures\bird1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\bird1.xnb</Output>
+      <Time>2015-04-22T12:07:40.7646062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bird2.png</Source>
+      <Name>Textures\Bird2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Bird2.xnb</Output>
+      <Time>2015-04-22T12:07:40.7696065+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacle.png</Source>
+      <Name>Textures\Obstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Obstacle.xnb</Output>
+      <Time>2015-04-22T12:07:40.7736067+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Scroll.png</Source>
+      <Name>Textures\Scroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Scroll.xnb</Output>
+      <Time>2015-04-22T12:07:02.2644041+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Wood.png</Source>
+      <Name>Textures\Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\Wood.xnb</Output>
+      <Time>2015-04-26T15:56:01.6159112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2015-04-27T19:14:27.9255453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\font.spritefont</Source>
+      <Name>Fonts\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\Fonts\font.xnb</Output>
+      <Time>2015-04-26T18:28:48.5502298+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{54626A0B-92E2-45E0-96FE-EA6E11B93024}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterflyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Denny\Documents\Visual Studio 2013\Projects\FlappyButterfly\FlappyButterfly\FlappyButterfly\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-17T18:37:33.7405544+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
